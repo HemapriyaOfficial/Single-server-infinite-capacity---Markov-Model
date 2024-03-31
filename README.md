@@ -28,6 +28,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Program
 
+
+
 '''
 name : Hemapriya K
 register no : 212223040066
@@ -56,6 +58,7 @@ if (lam <  mu):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("---------------------------------------------------------------")
+
 
 
 ## Output :
